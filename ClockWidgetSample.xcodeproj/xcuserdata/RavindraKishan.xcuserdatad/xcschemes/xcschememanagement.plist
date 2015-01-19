@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ClockExt.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ClockWidgetSample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ExtClock.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0951950F1A695836004EF8C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>095195241A695837004EF8C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>095195411A6959A8004EF8C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>095195581A6959A8004EF8C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0951956E1A6959A8004EF8C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
